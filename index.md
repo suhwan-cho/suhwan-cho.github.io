@@ -20,6 +20,9 @@ _I’m always open to research collaborations and academic partnerships. Feel fr
 <sup>(\* indicates equal contribution)</sup>
 
 ### 2025
+* CMTM: Cross-Modal Token Modulation for Unsupervised Video Object Segmentation  
+Inseok Jeon, Suhwan Cho, Minhyeok Lee, Seunghoon Lee, Minseok Kang, Jungho Lee, Chaewon Park, Donghyeong Kim, Sangyoun Lee  
+IEEE International Conference on Image Processing (**ICIP**), 2025
 
 * GenCLIP: Generalizing CLIP Prompts for Zero-shot Anomaly Detection  
 Donghyeong Kim, Chaewon Park, Suhwan Cho, Hyeonjeong Lim, Minseok Kang, Jungho Lee, Sangyoun Lee  
