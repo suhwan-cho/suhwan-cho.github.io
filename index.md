@@ -20,6 +20,10 @@ _I’m always open to research collaborations and academic partnerships. Feel fr
 <sup>(\* indicates equal contribution)</sup>
 
 ### 2025
+* CoMoGaussian: Continuous Motion-Aware Gaussian Splatting from Motion-Blurred Images <a href="https://jho-yonsei.github.io/CoMoGaussian">[Page]</a>  
+Jungho Lee, Donghyeong Kim, Dogyoon Lee, Suhwan Cho, Minhyeok Lee, Wonjoon Lee, Taeoh Kim, Dongyoon Wee, Sangyoun Lee  
+IEEE/CVF International Conference on Computer Vision (**ICCV**), 2025
+
 * CMTM: Cross-Modal Token Modulation for Unsupervised Video Object Segmentation  
 Inseok Jeon, Suhwan Cho, Minhyeok Lee, Seunghoon Lee, Minseok Kang, Jungho Lee, Chaewon Park, Donghyeong Kim, Sangyoun Lee  
 IEEE International Conference on Image Processing (**ICIP**), 2025
@@ -27,10 +31,6 @@ IEEE International Conference on Image Processing (**ICIP**), 2025
 * GenCLIP: Generalizing CLIP Prompts for Zero-shot Anomaly Detection  
 Donghyeong Kim, Chaewon Park, Suhwan Cho, Hyeonjeong Lim, Minseok Kang, Jungho Lee, Sangyoun Lee  
 arXiv, 2025  
-
-* CoMoGaussian: Continuous Motion-Aware Gaussian Splatting from Motion-Blurred Images <a href="https://jho-yonsei.github.io/CoMoGaussian">[Page]</a>  
-Jungho Lee, Donghyeong Kim, Dogyoon Lee, Suhwan Cho, Minhyeok Lee, Wonjoon Lee, Taeoh Kim, Dongyoon Wee, Sangyoun Lee  
-arXiv, 2025
 
 * Treating Motion as Option with Output Selection for Unsupervised Video Object Segmentation <a href="https://github.com/suhwan-cho/TMO">[Code]</a>  
 Suhwan Cho, Minhyeok Lee, Jungho Lee, MyeongAh Cho, Seungwook Park, Jaeyeob Kim, Hyunsung Jang, Sangyoun Lee  
