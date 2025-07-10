@@ -1,7 +1,5 @@
-<!-- I am a Senior Research Scientist at [Adobe Research](https://research.adobe.com/), San Jose, CA. I received my M.S and Ph.D. degrees in Electrical Engineering from KAIST, Korea in 2009 and 2015 respectively. During my graduate study, I worked at the Robotics and Computer Vision Lab with Prof. In So Kweon as my advisor. I was an intern at Adobe (San Jose, CA) in 2015 and 2014, and at Microsoft Reseach Asia (Beijing, China) in 2010. I received the B.S degree in Electrical and Electronic Engineering from Yonsei University, Korea in 2008. My research area includes computer vision, deep learning, and machine learning. -->
 
 **Bio**
-* Founding Member at <a href="https://www.linkedin.com/company/offhour-research/">Offhour Research</a>, 2025 - Present
 * Research Scientist at <a href="https://gengen.ai/">GenGenAI</a>, 2025 - Present
 * Research Scientist Intern at <a href="https://research.adobe.com/careers/san-jose/">Adobe Research</a>, 2023
 * Ph.D. in EE, <a href="https://www.yonsei.ac.kr/en_sc/index.jsp">Yonsei University</a>, 2020 - 2025
@@ -20,6 +18,19 @@ _I’m always open to research collaborations and academic partnerships. Feel fr
 <sup>(\* indicates equal contribution)</sup>
 
 ### 2025
+
+* Find First, Track Next: Decoupling Identification and Propagation in Referring Video Object Segmentation <a href="https://github.com/suhwan-cho/FindTrack">[Code]</a>  
+Suhwan Cho\*, Seunghoon Lee\*, Minhyeok Lee, Jungho Lee, Sangyoun Lee  
+IEEE/CVF International Conference on Computer Vision Workshops (**ICCVW**), 2025
+
+* DepthFlow: Exploiting Depth‐Flow Structural Correlations for Unsupervised Video Object Segmentation <a href="https://github.com/suhwan-cho/DepthFlow">[Code]</a>  
+Suhwan Cho, Minhyeok Lee, Jungho Lee, Donghyeong Kim, Sangyoun Lee  
+IEEE/CVF International Conference on Computer Vision Workshops (**ICCVW**), 2025
+
+* TransFlow: Motion Knowledge Transfer from Video Diffusion Models to Video Salient Object Detection <a href="https://github.com/suhwan-cho/TransFlow">[Code]</a>  
+Suhwan Cho, Minhyeok Lee, Jungho Lee, Sunghun Yang, Sangyoun Lee   
+IEEE/CVF International Conference on Computer Vision Workshops (**ICCVW**), 2025
+
 * CoMoGaussian: Continuous Motion-Aware Gaussian Splatting from Motion-Blurred Images <a href="https://jho-yonsei.github.io/CoMoGaussian">[Page]</a>  
 Jungho Lee, Donghyeong Kim, Dogyoon Lee, Suhwan Cho, Minhyeok Lee, Wonjoon Lee, Taeoh Kim, Dongyoon Wee, Sangyoun Lee  
 IEEE/CVF International Conference on Computer Vision (**ICCV**), 2025
@@ -35,10 +46,6 @@ arXiv, 2025
 * Treating Motion as Option with Output Selection for Unsupervised Video Object Segmentation <a href="https://github.com/suhwan-cho/TMO">[Code]</a>  
 Suhwan Cho, Minhyeok Lee, Jungho Lee, MyeongAh Cho, Seungwook Park, Jaeyeob Kim, Hyunsung Jang, Sangyoun Lee  
 IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2025
-
-* Find First, Track Next: Decoupling Identification and Propagation in Referring Video Object Segmentation <a href="https://github.com/suhwan-cho/FindTrack">[Code]</a>  
-Suhwan Cho, Seunghoon Lee, Minhyeok Lee, Jungho Lee, Sangyoun Lee  
-arXiv, 2025
 
 * Effective SAM Combination for Open-Vocabulary Semantic Segmentation  
 Minhyeok Lee, Suhwan Cho, Jungho Lee, Sunghun Yang, Heeseung Choi, Ig-Jae Kim, Sangyoun Lee  
@@ -65,17 +72,9 @@ AAAI Conference on Artificial Intelligence (**AAAI**), 2025
 Sunghun Yang, Minhyeok Lee, Jungho Lee, Suhwan Cho, Sangyoun Lee  
 arXiv, 2024
 
-* Transforming Static Images Using Generative Models for Video Salient Object Detection  
-Suhwan Cho, Minhyeok Lee, Jungho Lee, Sangyoun Lee  
-arXiv, 2024
-
 * LSHNet: Leveraging Structure-Prior with Hierarchical Feature Updates for Salient Object Detection in Optical Remote Sensing Images <a href="https://github.com/iseunghoon/LSHNet">[Code]</a>  
 Seunghoon Lee, Suhwan Cho, Chaewon Park, Seungwook Park, Jaeyeob Kim, Sangyoun Lee  
 IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2024
-
-* Improving Unsupervised Video Object Segmentation via Fake Flow Generation  
-Suhwan Cho, Minhyeok Lee, Jungho Lee, Donghyeong Kim, Seunghoon Lee, Sungmin Woo, Sangyoun Lee  
-arXiv 2024
 
 * Dual Prototype Attention for Unsupervised Video Object Segmentation <a href="https://github.com/Hydragon516/DPA">[Code]</a>  
 Suhwan Cho\*, Minhyeok Lee\*, Seunghoon Lee, Dogyoon Lee, Sangyoun Lee   
@@ -154,7 +153,7 @@ arXiv, 2022
 MyeongAh Cho, Taeoh Kim, Woo Jin Kim, Suhwan Cho, Sangyoun Lee  
 Pattern Recognition (**PR**), 2022
 
-* Occluded Person Re-Identification via Relational Adaptive Feature Correction Learning  
+* Occluded Person Re-Identification via Relational Adaptive Feature Correction Learning   
 Minjung Kim, MyeongAh Cho, Heansung Lee, Suhwan Cho, Sangyoun Lee  
 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2022
 
@@ -166,7 +165,7 @@ IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**), 2022
 
 ### 2020
 
-* CRVOS: Clue Refining Network for Video Object Segmentation  
+* CRVOS: Clue Refining Network for Video Object Segmentation   
 Suhwan Cho, MyeongAh Cho, Tae-young Chung, Heansung Lee, Sangyoun Lee  
 IEEE International Conference on Image Processing (**ICIP**), 2020
 
