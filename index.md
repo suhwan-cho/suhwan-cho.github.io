@@ -23,7 +23,7 @@ _I’m always open to research collaborations and academic partnerships. Feel fr
 Suhwan Cho\*, Seunghoon Lee\*, Minhyeok Lee, Jungho Lee, Sangyoun Lee  
 IEEE/CVF International Conference on Computer Vision Workshops (**ICCVW**), 2025
 
-* DepthFlow: Exploiting Depth‐Flow Structural Correlations for Unsupervised Video Object Segmentation <a href="https://github.com/suhwan-cho/DepthFlow">[Code]</a>  
+* DepthFlow: Exploiting Depth-Flow Structural Correlations for Unsupervised Video Object Segmentation <a href="https://github.com/suhwan-cho/DepthFlow">[Code]</a>  
 Suhwan Cho, Minhyeok Lee, Jungho Lee, Donghyeong Kim, Sangyoun Lee  
 IEEE/CVF International Conference on Computer Vision Workshops (**ICCVW**), 2025
 
