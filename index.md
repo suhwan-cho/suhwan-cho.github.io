@@ -21,15 +21,15 @@ _I’m always open to research collaborations and academic partnerships. Feel fr
 
 * Find First, Track Next: Decoupling Identification and Propagation in Referring Video Object Segmentation <a href="https://github.com/suhwan-cho/FindTrack">[Code]</a>  
 Suhwan Cho\*, Seunghoon Lee\*, Minhyeok Lee, Jungho Lee, Sangyoun Lee  
-IEEE/CVF International Conference on Computer Vision Workshops (**ICCVW**), 2025
+The 7th Large-Scale Video Object Segmentation (**LSVOS**) Workshop @ **ICCV**, 2025
 
 * DepthFlow: Exploiting Depth-Flow Structural Correlations for Unsupervised Video Object Segmentation <a href="https://github.com/suhwan-cho/DepthFlow">[Code]</a>  
 Suhwan Cho, Minhyeok Lee, Jungho Lee, Donghyeong Kim, Sangyoun Lee  
-IEEE/CVF International Conference on Computer Vision Workshops (**ICCVW**), 2025
+The 7th Large-Scale Video Object Segmentation (**LSVOS**) Workshop @ **ICCV**, 2025
 
 * TransFlow: Motion Knowledge Transfer from Video Diffusion Models to Video Salient Object Detection <a href="https://github.com/suhwan-cho/TransFlow">[Code]</a>  
 Suhwan Cho, Minhyeok Lee, Jungho Lee, Sunghun Yang, Sangyoun Lee   
-IEEE/CVF International Conference on Computer Vision Workshops (**ICCVW**), 2025
+The 7th Large-Scale Video Object Segmentation (**LSVOS**) Workshop @ **ICCV**, 2025
 
 * CoMoGaussian: Continuous Motion-Aware Gaussian Splatting from Motion-Blurred Images <a href="https://jho-yonsei.github.io/CoMoGaussian">[Page]</a>  
 Jungho Lee, Donghyeong Kim, Dogyoon Lee, Suhwan Cho, Minhyeok Lee, Wonjoon Lee, Taeoh Kim, Dongyoon Wee, Sangyoun Lee  
