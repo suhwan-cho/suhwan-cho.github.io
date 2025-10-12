@@ -1,6 +1,6 @@
 
 **Bio**
-* Research Scientist at <a href="https://gengen.ai/">GenGenAI</a>, 2025 - Present
+* Research Scientist at <a href="https://gengen.ai/">GenGenAI</a>, 2025 - Present (Alt. Military Service)
 * Research Scientist Intern at <a href="https://research.adobe.com/careers/san-jose/">Adobe Research</a>, 2023
 * Ph.D. in EE, <a href="https://www.yonsei.ac.kr/en_sc/index.jsp">Yonsei University</a>, 2020 - 2025
 * B.S. in EE, <a href="https://www.yonsei.ac.kr/en_sc/index.jsp">Yonsei University</a>, 2016 - 2020
