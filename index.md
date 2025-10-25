@@ -6,10 +6,13 @@
 * B.S. in EE, <a href="https://www.yonsei.ac.kr/en_sc/index.jsp">Yonsei University</a>, 2016 - 2020
 
 **Research Interests**  
-* Video Object Segmentation
-* Video Inpainting
-* Video Generation 
-* Video Understanding
+
+1. Understanding objects and pixels in video with temporal and motion-aware consistency (e.g., <a href="https://github.com/suhwan-cho/TBD">TBD</a>, <a href="https://github.com/Hydragon516/DPA">DPA</a>, <a href="https://github.com/suhwan-cho/RGVI">RGVI</a>, <a href="https://github.com/suhwan-cho/FindTrack">FindTrack</a>)
+
+2. Leveraging pre-trained models to enhance video and multi-modal data understanding (e.g., <a href="https://github.com/Hydragon516/FFF-VDI">FFF-VDI</a>, <a href="https://github.com/suhwan-cho/TransFlow">TransFlow</a>, <a href="https://github.com/suhwan-cho/DepthFlow">DepthFlow</a>)
+
+3. Enabling human-interactive control by integrating text with video domain understanding (e.g., <a href="https://github.com/suhwan-cho/RGVI">RGVI</a>, <a href="https://arxiv.org/abs/2411.14723">ESC-Net</a>, <a href="https://github.com/suhwan-cho/FindTrack">FindTrack</a>)
+
 
 _I’m always open to research collaborations and academic partnerships. Feel free to reach out!_
 
