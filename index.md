@@ -40,7 +40,7 @@ IEEE/CVF International Conference on Computer Vision (**ICCV**), 2025
 
 * CMTM: Cross-Modal Token Modulation for Unsupervised Video Object Segmentation  
 Inseok Jeon, Suhwan Cho, Minhyeok Lee, Seunghoon Lee, Minseok Kang, Jungho Lee, Chaewon Park, Donghyeong Kim, Sangyoun Lee  
-IEEE International Conference on Image Processing (**ICIP**), 2025
+IEEE International Conference on Image Processing (**ICIP**), 2025 - 🏆 Oral presentation  
 
 * GenCLIP: Generalizing CLIP Prompts for Zero-shot Anomaly Detection  
 Donghyeong Kim, Chaewon Park, Suhwan Cho, Hyeonjeong Lim, Minseok Kang, Jungho Lee, Sangyoun Lee  
@@ -52,8 +52,7 @@ IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2025
 
 * Effective SAM Combination for Open-Vocabulary Semantic Segmentation  
 Minhyeok Lee, Suhwan Cho, Jungho Lee, Sunghun Yang, Heeseung Choi, Ig-Jae Kim, Sangyoun Lee  
-IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025  
-🏆 Oral presentation (3.3% of the accepted papers)
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025 - 🏆 Oral presentation  
 
 * CoCoGaussian: Leveraging Circle of Confusion for Gaussian Splatting from Defocused Images  <a href="https://jho-yonsei.github.io/CoCoGaussian">[Page]</a>  
 Jungho Lee, Donghyeong Kim, Dogyoon Lee, Suhwan Cho, Minhyeok Lee, Wonjoon Lee, Taeoh Kim, Dongyoon Wee, Sangyoun Lee  
