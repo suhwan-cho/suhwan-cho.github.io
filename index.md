@@ -20,6 +20,18 @@ _I’m always open to research collaborations and academic partnerships. Feel fr
 ## Publications 
 <sup>(\* indicates equal contribution)</sup>
 
+
+### 2026
+
+* Generalizing CLIP Prompts for Zero-shot Anomaly Detection  
+Donghyeong Kim, Chaewon Park, Suhwan Cho, Hyeonjeong Lim, Minseok Kang, Jungho Lee, Sangyoun Lee  
+Pattern Recognition (**PR**), 2026
+
+* Seen-to-Scene: Keep the Seen, Generate the Unseen for Video Outpainting  
+Inseok Jeon, Minhyeok Lee, Seunghoon Lee, Minseok Kang, Suhwan Cho, Sangyoun Lee  
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR Findings**), 2026
+
+
 ### 2025
 
 * Find First, Track Next: Decoupling Identification and Propagation in Referring Video Object Segmentation <a href="https://github.com/suhwan-cho/FindTrack">[Code]</a>  
@@ -41,10 +53,6 @@ IEEE/CVF International Conference on Computer Vision (**ICCV**), 2025
 * CMTM: Cross-Modal Token Modulation for Unsupervised Video Object Segmentation  
 Inseok Jeon, Suhwan Cho, Minhyeok Lee, Seunghoon Lee, Minseok Kang, Jungho Lee, Chaewon Park, Donghyeong Kim, Sangyoun Lee  
 IEEE International Conference on Image Processing (**ICIP**), 2025 - 🏆 Oral presentation  
-
-* GenCLIP: Generalizing CLIP Prompts for Zero-shot Anomaly Detection  
-Donghyeong Kim, Chaewon Park, Suhwan Cho, Hyeonjeong Lim, Minseok Kang, Jungho Lee, Sangyoun Lee  
-arXiv, 2025  
 
 * Treating Motion as Option with Output Selection for Unsupervised Video Object Segmentation <a href="https://github.com/suhwan-cho/TMO">[Code]</a>  
 Suhwan Cho, Minhyeok Lee, Jungho Lee, MyeongAh Cho, Seungwook Park, Jaeyeob Kim, Hyunsung Jang, Sangyoun Lee  
