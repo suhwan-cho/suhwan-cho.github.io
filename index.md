@@ -63,7 +63,7 @@ Minhyeok Lee, Suhwan Cho, Jungho Lee, Sunghun Yang, Heeseung Choi, Ig-Jae Kim, S
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025 - 🏆 Oral presentation  
 
 * CoCoGaussian: Leveraging Circle of Confusion for Gaussian Splatting from Defocused Images  <a href="https://jho-yonsei.github.io/CoCoGaussian">[Page]</a>  
-Jungho Lee, Donghyeong Kim, Dogyoon Lee, Suhwan Cho, Minhyeok Lee, Wonjoon Lee, Taeoh Kim, Dongyoon Wee, Sangyoun Lee  
+Jungho Lee, Suhwan Cho, Taeoh Kim, Ho-Deok Jang, Minhyeok Lee, Geonho Cha, Dongyoon Wee, Dogyoon Lee, Sangyoun Lee  
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025
 
 * Elevating Flow-Guided Video Inpainting with Reference Generation <a href="https://github.com/suhwan-cho/RGVI">[Code]</a>  
