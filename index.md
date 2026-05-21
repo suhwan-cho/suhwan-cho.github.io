@@ -5,10 +5,18 @@
 * B.S. in EE, <a href="https://www.yonsei.ac.kr/sc/index.do">Yonsei University</a>, 2016 - 2020
 
 **Research Interests**  
-* **Temporal & Motion-Aware Vision:** Understanding objects and pixels in video with robust temporal and motion-aware consistency.
-* **Generative & 3D Vision:** Leveraging generative priors and 3D representations to enhance video synthesis and scene understanding.
-* **Multi-Modal & Interactive Vision:** Bridging vision and language to enable intuitive human-interactive visual control.
-* **Real-World Vision Systems:** Translating fundamental computer vision research into robust, scalable, and real-world applicable solutions.
+
+* **Temporal & Motion-Aware Vision:**<br>
+  Understanding objects and pixels in video with robust temporal and motion-aware consistency.
+
+* **Generative & 3D Vision:**<br>
+  Leveraging generative priors and 3D representations to enhance video synthesis and scene understanding.
+
+* **Multi-Modal & Interactive Vision:**<br>
+  Bridging vision and language to enable intuitive human-interactive visual control.
+
+* **Real-World Vision Systems:**<br>
+  Translating fundamental computer vision research into robust, scalable, and real-world applicable solutions.
 
 ## Collaborators
 I have been fortunate to work closely with many brilliant researchers, including:
