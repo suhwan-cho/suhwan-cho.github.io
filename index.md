@@ -34,6 +34,10 @@ _I’m always open to research collaborations and academic partnerships. Feel fr
 
 ### 2026
 
+* **Bidirectional Token-Masking AutoEncoder for Referring Image Segmentation**<br>
+  Minhyeok Lee, Dogyoon Lee, Jungho Lee, Suhwan Cho, Sangyoun Lee<br>
+  Pattern Recognition (**PR**), 2026
+
 * **Generalizing CLIP Prompts for Zero-shot Anomaly Detection**<br>
   Donghyeong Kim, Chaewon Park, Suhwan Cho, Hyeonjeong Lim, Minseok Kang, Jungho Lee, Sangyoun Lee<br>
   Pattern Recognition (**PR**), 2026
@@ -106,10 +110,6 @@ _I’m always open to research collaborations and academic partnerships. Feel fr
 
 
 ### 2023
-
-* **Synchronizing Vision and Language: Bidirectional Token-Masking AutoEncoder for Referring Image Segmentation**<br>
-  Minhyeok Lee, Dogyoon Lee, Jungho Lee, Suhwan Cho, Heeseung Choi, Ig-Jae Kim, Sangyoun Lee<br>
-  arXiv, 2023
 
 * **Leveraging Spatio-Temporal Dependency for Skeleton-Based Action Recognition** <a href="https://github.com/Jho-Yonsei/STC-Net">[Code]</a><br>
   Jungho Lee, Minhyeok Lee, Suhwan Cho, Sungmin Woo, Sangyoun Lee<br>
