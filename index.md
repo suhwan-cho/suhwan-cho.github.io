@@ -1,10 +1,10 @@
-## Bio  
+### Bio  
 * Technical Lead at <a href="https://gengen.ai/">GenGenAI</a>, 2025 - Present
 * Research Scientist Intern at <a href="https://research.adobe.com/careers/san-jose/">Adobe Research</a>, 2023
 * Ph.D. in EE, <a href="https://www.yonsei.ac.kr/sc/index.do">Yonsei University</a>, 2020 - 2025
 * B.S. in EE, <a href="https://www.yonsei.ac.kr/sc/index.do">Yonsei University</a>, 2016 - 2020
 
-## Research Interests  
+### Research Interests  
 
 * **Temporal & Motion-Aware Vision:**<br>
   Understanding objects and pixels in video with robust temporal and motion-aware consistency.
@@ -18,7 +18,7 @@
 * **Real-World Vision Systems:**<br>
   Translating fundamental computer vision research into robust, scalable, and real-world applicable solutions.
 
-## Collaborators
+### Collaborators
 I have been fortunate to work closely with many brilliant researchers, including:
 * <a href="https://yc4ny.github.io/">Yonwoo Choi</a>, <a href="https://kimsj0302.github.io/kimsj0302_academic/">Soongjin Kim</a> (GenGenAI)
 * <a href="https://sites.google.com/view/seoungwugoh/?pli=1">Seoung Wug Oh</a>, <a href="https://joonyoung-cv.github.io/">Joon-Young Lee</a> (Adobe Research)
@@ -29,7 +29,7 @@ _I’m always open to research collaborations and academic partnerships. Feel fr
 
 ---
 
-## Publications 
+### Publications 
 <sup>(* indicates equal contribution)</sup>
 
 ### 2026
