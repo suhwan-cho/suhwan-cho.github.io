@@ -7,16 +7,16 @@
 ### Research Interests  
 
 * **Temporal & Motion-Aware Vision:**<br>
-  Understanding visual dynamics and dense pixel behaviors with robust spatio-temporal consistency.
+  Modeling complex visual dynamics and pixel-level tracking with long-term spatio-temporal consistency.
 
-* **Generative & 3D Vision:**<br>
-  Leveraging generative priors and 3D representations to advance controllable video synthesis and scene understanding.
+* **Generative & 3D Representations:**<br>
+  Harnessing generative priors and spatial representations to bridge synthetic-to-real video simulation and scene understanding.
 
-* **Multi-Modal & Interactive Vision:**<br>
-  Bridging vision and language to enable intuitive, human-centered visual control and reasoning.
+* **Multi-Modal & Interactive Reasoning:**<br>
+  Aligning vision, language, and actions to enable intuitive human-interactive visual control.
 
-* **Real-World Vision Systems:**<br>
-  Translating foundational computer vision research into robust, latency-efficient, and scalable deployment pipelines.
+* **Embodied & Real-World Systems:**<br>
+  Deploying robust, hardware-friendly perception architectures into physical agents and real-world environments.
 
 ### Collaborators
 I have been fortunate to work closely with many brilliant researchers, including:
