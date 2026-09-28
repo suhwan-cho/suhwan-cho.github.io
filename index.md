@@ -7,16 +7,16 @@
 ### Research Interests  
 
 * **Temporal & Motion-Aware Vision:**<br>
-  Understanding objects and pixels in video with robust temporal and motion-aware consistency.
+  Understanding visual dynamics and dense pixel behaviors with robust spatio-temporal consistency.
 
 * **Generative & 3D Vision:**<br>
-  Leveraging generative priors and 3D representations to enhance video synthesis and scene understanding.
+  Leveraging generative priors and 3D representations to advance controllable video synthesis and scene understanding.
 
 * **Multi-Modal & Interactive Vision:**<br>
-  Bridging vision and language to enable intuitive human-interactive visual control.
+  Bridging vision and language to enable intuitive, human-centered visual control and reasoning.
 
 * **Real-World Vision Systems:**<br>
-  Translating fundamental computer vision research into robust, scalable, and real-world applicable solutions.
+  Translating foundational computer vision research into robust, latency-efficient, and scalable deployment pipelines.
 
 ### Collaborators
 I have been fortunate to work closely with many brilliant researchers, including:
@@ -33,6 +33,9 @@ _I’m always open to research collaborations and academic partnerships. Feel fr
 <sup>(* indicates equal contribution)</sup>
 
 ### 2026
+
+* **Generating First-Person Videos from a Single Third-Person Camera**<br>
+  _Under Review_
 
 * **Bidirectional Token-Masking AutoEncoder for Referring Image Segmentation**<br>
   Minhyeok Lee, Dogyoon Lee, Jungho Lee, Suhwan Cho, Sangyoun Lee<br>
