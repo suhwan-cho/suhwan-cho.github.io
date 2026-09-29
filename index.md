@@ -35,7 +35,8 @@ _I’m always open to research collaborations and academic partnerships. Feel fr
 ### 2026
 
 * **Generating First-Person Videos from a Single Third-Person Camera**<br>
-  _Under Review_
+  Suhwan Cho*, Yonwoo Choi*, Soongjin Kim*, Jicheol Park, Taegyu Lim<br>
+  _Under Review_
 
 * **Bidirectional Token-Masking AutoEncoder for Referring Image Segmentation**<br>
   Minhyeok Lee, Dogyoon Lee, Jungho Lee, Suhwan Cho, Sangyoun Lee<br>
