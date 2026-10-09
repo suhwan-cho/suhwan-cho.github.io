@@ -34,7 +34,7 @@ _I’m always open to research collaborations and academic partnerships. Feel fr
 
 ### 2026
 
-* **Generating First-Person Videos from a Single Third-Person Camera**<br>
+* **LEGO: A Lifting-Free Approach for Exocentric-to-Egocentric Video Generation** <a href="https://suhwan-cho.github.io/LEGO/">[Page]</a><br>
   Suhwan Cho*, Yonwoo Choi*, Soongjin Kim*, Jicheol Park, Taegyu Lim<br>
   _Under Review_
 
@@ -53,7 +53,7 @@ _I’m always open to research collaborations and academic partnerships. Feel fr
 
 ### 2025
 
-* **Find First, Track Next: Decoupling Identification and Propagation in Referring Video Object Segmentation** <a href="https://github.com/suhwan-cho/FindTrack">[Code]</a><br>
+* **Find First, Track Next: Decoupling Identification and Propagation in Referring Video Object Segmentation** <a href="https://suhwan-cho.github.io/FindTrack">[Page]</a><br>
   Suhwan Cho\*, Seunghoon Lee\*, Minhyeok Lee, Jungho Lee, Sangyoun Lee<br>
   The 7th Large-Scale Video Object Segmentation (**LSVOS**) Workshop @ **ICCV**, 2025
 
@@ -85,7 +85,7 @@ _I’m always open to research collaborations and academic partnerships. Feel fr
   Jungho Lee, Suhwan Cho, Taeoh Kim, Ho-Deok Jang, Minhyeok Lee, Geonho Cha, Dongyoon Wee, Dogyoon Lee, Sangyoun Lee<br>
   IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025
 
-* **Elevating Flow-Guided Video Inpainting with Reference Generation** <a href="https://github.com/suhwan-cho/RGVI">[Code]</a><br>
+* **Elevating Flow-Guided Video Inpainting with Reference Generation** <a href="https://suhwan-cho.github.io/RGVI">[Page]</a><br>
   Suhwan Cho, Seoung Wug Oh, Sangyoun Lee, Joon-Young Lee<br>
   AAAI Conference on Artificial Intelligence (**AAAI**), 2025
 
