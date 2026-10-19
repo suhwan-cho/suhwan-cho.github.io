@@ -35,7 +35,7 @@ _I’m always open to research collaborations and academic partnerships. Feel fr
 ### 2026
 
 * **LEGO: A Lifting-Free Approach for Exocentric-to-Egocentric Video Generation** <a href="https://suhwan-cho.github.io/LEGO/">[Page]</a><br>
-  Suhwan Cho*, Yonwoo Choi*, Soongjin Kim*, Jicheol Park, Taegyu Lim<br>
+  Suhwan Cho\*, Yonwoo Choi\*, Soongjin Kim\*, Jicheol Park, Taegyu Lim<br>
   _Under Review_
 
 * **Bidirectional Token-Masking AutoEncoder for Referring Image Segmentation**<br>
