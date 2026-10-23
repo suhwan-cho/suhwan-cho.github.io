@@ -38,6 +38,10 @@ _I’m always open to research collaborations and academic partnerships. Feel fr
   Suhwan Cho\*, Yonwoo Choi\*, Soongjin Kim\*, Jicheol Park, Taegyu Lim<br>
   _Under Review_
 
+* **STATIC: Surface-Normal-Guided Two-Branch Alignment and Temporal Integration for Consistent Video Depth Estimation**<br>
+  Sunghun Yang, Minhyeok Lee, Suhwan Cho, Suhwan Cho, Sangyoun Lee<br>
+  Pattern Recognition (**PR**), 2026
+
 * **Bidirectional Token-Masking AutoEncoder for Referring Image Segmentation**<br>
   Minhyeok Lee, Dogyoon Lee, Jungho Lee, Suhwan Cho, Sangyoun Lee<br>
   Pattern Recognition (**PR**), 2026
@@ -95,10 +99,6 @@ _I’m always open to research collaborations and academic partnerships. Feel fr
 
 
 ### 2024
-
-* **STATIC : Surface Temporal Affine for TIme Consistency in Video Monocular Depth Estimation**<br>
-  Sunghun Yang, Minhyeok Lee, Jungho Lee, Suhwan Cho, Sangyoun Lee<br>
-  arXiv, 2024
 
 * **LSHNet: Leveraging Structure-Prior with Hierarchical Feature Updates for Salient Object Detection in Optical Remote Sensing Images** <a href="https://github.com/iseunghoon/LSHNet">[Code]</a><br>
   Seunghoon Lee, Suhwan Cho, Chaewon Park, Seungwook Park, Jaeyeob Kim, Sangyoun Lee<br>
