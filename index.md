@@ -5,18 +5,17 @@
 * B.S. in EE, <a href="https://www.yonsei.ac.kr/sc/index.do">Yonsei University</a>, 2016 - 2020
 
 ### Research Interests  
+* **Video Perception & Tracking:**<br>
+  Object- and pixel-level video understanding, including unsupervised, semi-supervised, and referring video object segmentation, with motion-aware, long-term spatio-temporal modeling.
 
-* **Temporal & Motion-Aware Vision:**<br>
-  Modeling complex visual dynamics and pixel-level tracking with long-term spatio-temporal consistency.
+* **Generative Video & 3D:**<br>
+  Leveraging video diffusion priors for inpainting, outpainting, and cross-view (exo-to-ego) generation, and 3D Gaussian splatting from degraded inputs.
 
-* **Generative & 3D Representations:**<br>
-  Harnessing generative priors and spatial representations to bridge synthetic-to-real video simulation and scene understanding.
+* **Vision-Language Perception:**<br>
+  Language-guided and open-vocabulary segmentation built on foundation models such as CLIP and SAM.
 
-* **Multi-Modal & Interactive Reasoning:**<br>
-  Aligning vision, language, and actions to enable intuitive human-interactive visual control.
-
-* **Embodied & Real-World Systems:**<br>
-  Deploying robust, hardware-friendly perception architectures into physical agents and real-world environments.
+* **Toward Embodied Perception:**<br>
+  Extending video perception and generation to robot perception and vision-language-action models.
 
 ### Collaborators
 I have been fortunate to work closely with many brilliant researchers, including:
