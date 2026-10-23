@@ -39,7 +39,7 @@ _I’m always open to research collaborations and academic partnerships. Feel fr
   _Under Review_
 
 * **STATIC: Surface-Normal-Guided Two-Branch Alignment and Temporal Integration for Consistent Video Depth Estimation**<br>
-  Sunghun Yang, Minhyeok Lee, Suhwan Cho, Suhwan Cho, Sangyoun Lee<br>
+  Sunghun Yang, Minhyeok Lee, Suhwan Cho, Jungho Lee, Sangyoun Lee<br>
   Pattern Recognition (**PR**), 2026
 
 * **Bidirectional Token-Masking AutoEncoder for Referring Image Segmentation**<br>
