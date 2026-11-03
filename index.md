@@ -1,4 +1,5 @@
 ### Bio  
+* Staff Engineer at <a href="https://www.samsung.com/">Samsung Electronics</a> (RX Office), from Dec 2026
 * Technical Lead at <a href="https://gengen.ai/">GenGenAI</a>, 2025 - Present
 * Research Scientist Intern at <a href="https://research.adobe.com/careers/san-jose/">Adobe Research</a>, 2023
 * Ph.D. in EE, <a href="https://www.yonsei.ac.kr/sc/index.do">Yonsei University</a>, 2020 - 2025
@@ -31,30 +32,11 @@ _I’m always open to research collaborations and academic partnerships. Feel fr
 ### Publications 
 <sup>(* indicates equal contribution)</sup>
 
-### 2026
-
-* **LEGO: A Lifting-Free Approach for Exocentric-to-Egocentric Video Generation** <a href="https://suhwan-cho.github.io/LEGO/">[Page]</a><br>
-  Suhwan Cho\*, Yonwoo Choi\*, Soongjin Kim\*, Jicheol Park, Taegyu Lim<br>
-  _Under Review_
-
-* **STATIC: Surface-Normal-Guided Two-Branch Alignment and Temporal Integration for Consistent Video Depth Estimation**<br>
-  Sunghun Yang, Minhyeok Lee, Suhwan Cho, Jungho Lee, Sangyoun Lee<br>
-  Pattern Recognition (**PR**), 2026
-
-* **Bidirectional Token-Masking AutoEncoder for Referring Image Segmentation**<br>
-  Minhyeok Lee, Dogyoon Lee, Jungho Lee, Suhwan Cho, Sangyoun Lee<br>
-  Pattern Recognition (**PR**), 2026
-
-* **Generalizing CLIP Prompts for Zero-shot Anomaly Detection**<br>
-  Donghyeong Kim, Chaewon Park, Suhwan Cho, Hyeonjeong Lim, Minseok Kang, Jungho Lee, Sangyoun Lee<br>
-  Pattern Recognition (**PR**), 2026
+### Conference Papers
 
 * **Seen-to-Scene: Keep the Seen, Generate the Unseen for Video Outpainting**<br>
   Inseok Jeon, Minhyeok Lee, Seunghoon Lee, Minseok Kang, Suhwan Cho, Sangyoun Lee<br>
   IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR Findings**), 2026
-
-
-### 2025
 
 * **Find First, Track Next: Decoupling Identification and Propagation in Referring Video Object Segmentation** <a href="https://suhwan-cho.github.io/FindTrack">[Page]</a><br>
   Suhwan Cho\*, Seunghoon Lee\*, Minhyeok Lee, Jungho Lee, Sangyoun Lee<br>
@@ -76,10 +58,6 @@ _I’m always open to research collaborations and academic partnerships. Feel fr
   Inseok Jeon, Suhwan Cho, Minhyeok Lee, Seunghoon Lee, Minseok Kang, Jungho Lee, Chaewon Park, Donghyeong Kim, Sangyoun Lee<br>
   IEEE International Conference on Image Processing (**ICIP**), 2025 (**Oral**)
 
-* **Treating Motion as Option with Output Selection for Unsupervised Video Object Segmentation** <a href="https://github.com/suhwan-cho/TMO">[Code]</a><br>
-  Suhwan Cho, Minhyeok Lee, Jungho Lee, MyeongAh Cho, Seungwook Park, Jaeyeob Kim, Hyunsung Jang, Sangyoun Lee<br>
-  IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2025
-
 * **Effective SAM Combination for Open-Vocabulary Semantic Segmentation**<br>
   Minhyeok Lee, Suhwan Cho, Jungho Lee, Sunghun Yang, Heeseung Choi, Ig-Jae Kim, Sangyoun Lee<br>
   IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025 (**Oral**)
@@ -96,13 +74,6 @@ _I’m always open to research collaborations and academic partnerships. Feel fr
   Minhyeok Lee, Suhwan Cho, Chajin Shin, Jungho Lee, Sunghun Yang, Sangyoun Lee<br>
   AAAI Conference on Artificial Intelligence (**AAAI**), 2025
 
-
-### 2024
-
-* **LSHNet: Leveraging Structure-Prior with Hierarchical Feature Updates for Salient Object Detection in Optical Remote Sensing Images** <a href="https://github.com/iseunghoon/LSHNet">[Code]</a><br>
-  Seunghoon Lee, Suhwan Cho, Chaewon Park, Seungwook Park, Jaeyeob Kim, Sangyoun Lee<br>
-  IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2024
-
 * **Dual Prototype Attention for Unsupervised Video Object Segmentation** <a href="https://github.com/Hydragon516/DPA">[Code]</a><br>
   Suhwan Cho\*, Minhyeok Lee\*, Seunghoon Lee, Dogyoon Lee, Sangyoun Lee<br>
   IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024  
@@ -110,9 +81,6 @@ _I’m always open to research collaborations and academic partnerships. Feel fr
 * **Guided Slot Attention for Unsupervised Video Object Segmentation** <a href="https://github.com/Hydragon516/GSANet">[Code]</a><br>
   Minhyeok Lee, Suhwan Cho, Dogyoon Lee, Chaewon Park, Jungho Lee, Sangyoun Lee<br>
   IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024  
-
-
-### 2023
 
 * **Leveraging Spatio-Temporal Dependency for Skeleton-Based Action Recognition** <a href="https://github.com/Jho-Yonsei/STC-Net">[Code]</a><br>
   Jungho Lee, Minhyeok Lee, Suhwan Cho, Sungmin Woo, Sangyoun Lee<br>
@@ -134,10 +102,6 @@ _I’m always open to research collaborations and academic partnerships. Feel fr
   Donghyeong Kim, Chaewon Park, Suhwan Cho, Sangyoun Lee<br>
   IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2023
 
-* **One-Shot Video Inpainting**<br>
-  Sangjin Lee\*, Suhwan Cho\*, Sangyoun Lee<br>
-  arXiv, 2023
-
 * **Treating Motion as Option to Reduce Motion Dependency in Unsupervised Video Object Segmentation** <a href="https://github.com/suhwan-cho/TMO">[Code]</a><br>
   Suhwan Cho, Minhyeok Lee, Seunghoon Lee, Chaewon Park, Donghyeong Kim, Sangyoun Lee<br>
   IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**), 2023
@@ -145,9 +109,6 @@ _I’m always open to research collaborations and academic partnerships. Feel fr
 * **Unsupervised Video Object Segmentation via Prototype Memory Network** <a href="https://github.com/Hydragon516/PMN">[Code]</a><br>
   Minhyeok Lee, Suhwan Cho, Seunghoon Lee, Chaewon Park, Sangyoun Lee<br>
   IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**), 2023
-
-
-### 2022
 
 * **Tackling Background Distraction in Video Object Segmentation** <a href="https://github.com/suhwan-cho/TBD">[Code]</a><br>
   Suhwan Cho, Heansung Lee, Minhyeok Lee, Chaewon Park, Sungjun Jang, Minjung Kim, Sangyoun Lee<br>
@@ -165,14 +126,6 @@ _I’m always open to research collaborations and academic partnerships. Feel fr
   Heansung Lee, Suhwan Cho, Sungjun Jang, Jungho Lee, Sungmin Woo, Sangyoun Lee<br>
   IEEE International Conference on Image Processing (**ICIP**), 2022
 
-* **Pixel-Level Equalized Matching for Video Object Segmentation**<br>
-  Suhwan Cho, Woo Jin Kim, MyeongAh Cho, Seunghoon Lee, Minhyeok Lee, Chaewon Park, Sangyoun Lee<br>
-  arXiv, 2022
-
-* **Unsupervised Video Anomaly Detection via Normalizing Flows with Implicit Latent Features**<br>
-  MyeongAh Cho, Taeoh Kim, Woo Jin Kim, Suhwan Cho, Sangyoun Lee<br>
-  Pattern Recognition (**PR**), 2022
-
 * **Occluded Person Re-Identification via Relational Adaptive Feature Correction Learning**<br>
   Minjung Kim, MyeongAh Cho, Heansung Lee, Suhwan Cho, Sangyoun Lee<br>
   IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2022
@@ -181,11 +134,50 @@ _I’m always open to research collaborations and academic partnerships. Feel fr
   Suhwan Cho, Heansung Lee, Minjung Kim, Sungjun Jang, Sangyoun Lee<br>
   IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**), 2022
 
-
-### 2020
-
 * **CRVOS: Clue Refining Network for Video Object Segmentation**<br>
   Suhwan Cho, MyeongAh Cho, Tae-young Chung, Heansung Lee, Sangyoun Lee<br>
   IEEE International Conference on Image Processing (**ICIP**), 2020
+
+
+### Journal Articles
+
+* **STATIC: Surface-Normal-Guided Two-Branch Alignment and Temporal Integration for Consistent Video Depth Estimation**<br>
+  Sunghun Yang, Minhyeok Lee, Suhwan Cho, Jungho Lee, Sangyoun Lee<br>
+  Pattern Recognition (**PR**), 2026
+
+* **Bidirectional Token-Masking AutoEncoder for Referring Image Segmentation**<br>
+  Minhyeok Lee, Dogyoon Lee, Jungho Lee, Suhwan Cho, Sangyoun Lee<br>
+  Pattern Recognition (**PR**), 2026
+
+* **Generalizing CLIP Prompts for Zero-shot Anomaly Detection**<br>
+  Donghyeong Kim, Chaewon Park, Suhwan Cho, Hyeonjeong Lim, Minseok Kang, Jungho Lee, Sangyoun Lee<br>
+  Pattern Recognition (**PR**), 2026
+
+* **Treating Motion as Option with Output Selection for Unsupervised Video Object Segmentation** <a href="https://github.com/suhwan-cho/TMO">[Code]</a><br>
+  Suhwan Cho, Minhyeok Lee, Jungho Lee, MyeongAh Cho, Seungwook Park, Jaeyeob Kim, Hyunsung Jang, Sangyoun Lee<br>
+  IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2025
+
+* **LSHNet: Leveraging Structure-Prior with Hierarchical Features Updates for Salient Object Detection in Optical Remote Sensing Images** <a href="https://github.com/iseunghoon/LSHNet">[Code]</a><br>
+  Seunghoon Lee, Suhwan Cho, Chaewon Park, Seungwook Park, Jaeyeob Kim, Sangyoun Lee<br>
+  IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2024
+
+* **Unsupervised Video Anomaly Detection via Normalizing Flows with Implicit Latent Features**<br>
+  MyeongAh Cho, Taeoh Kim, Woo Jin Kim, Suhwan Cho, Sangyoun Lee<br>
+  Pattern Recognition (**PR**), 2022
+
+
+### Preprints
+
+* **LEGO: A Lifting-Free Approach for Exocentric-to-Egocentric Video Generation** <a href="https://suhwan-cho.github.io/LEGO/">[Page]</a><br>
+  Suhwan Cho\*, Yonwoo Choi\*, Soongjin Kim\*, Jicheol Park, Taegyu Lim<br>
+  _Under Review_
+
+* **One-Shot Video Inpainting**<br>
+  Sangjin Lee\*, Suhwan Cho\*, Sangyoun Lee<br>
+  arXiv, 2023
+
+* **Pixel-Level Equalized Matching for Video Object Segmentation**<br>
+  Suhwan Cho, Woo Jin Kim, MyeongAh Cho, Seunghoon Lee, Minhyeok Lee, Chaewon Park, Sangyoun Lee<br>
+  arXiv, 2022
 
 ---
