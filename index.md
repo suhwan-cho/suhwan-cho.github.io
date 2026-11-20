@@ -20,10 +20,10 @@
 
 ### Collaborators
 I have been fortunate to work closely with many brilliant researchers, including:
-* <a href="https://yc4ny.github.io/">Yonwoo Choi</a>, <a href="https://kimsj0302.github.io/kimsj0302_academic/">Soongjin Kim</a> (GenGenAI)
-* <a href="https://sites.google.com/view/seoungwugoh/?pli=1">Seoung Wug Oh</a>, <a href="https://joonyoung-cv.github.io/">Joon-Young Lee</a> (Adobe Research)
-* <a href="https://hydragon.co.kr/">Minhyeok Lee</a>, <a href="https://jho-yonsei.github.io/">Jungho Lee</a> (Yonsei University)
-* And many outstanding colleagues.
+* **GenGenAI**: <a href="https://yc4ny.github.io/">Yonwoo Choi</a>, <a href="https://kimsj0302.github.io/kimsj0302_academic/">Soongjin Kim</a>
+* **Adobe Research**: <a href="https://sites.google.com/view/seoungwugoh/?pli=1">Seoung Wug Oh</a>, <a href="https://joonyoung-cv.github.io/">Joon-Young Lee</a>
+* **Yonsei University**: <a href="https://hydragon.co.kr/">Minhyeok Lee</a>, <a href="https://jho-yonsei.github.io/">Jungho Lee</a>
+* ...and many outstanding colleagues!
 
 _I’m always open to research collaborations and academic partnerships. Feel free to reach out!_
 
